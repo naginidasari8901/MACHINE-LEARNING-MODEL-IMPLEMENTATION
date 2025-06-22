@@ -139,3 +139,11 @@ TF-IDF Vectorizer
 Logistic Regression or SVM
 
 GUI/Flask web interface?
+
+*output*: 
+
+![Image](https://github.com/user-attachments/assets/17d6e2d5-4c6d-4602-bfae-d705563969ff)
+
+![Image](https://github.com/user-attachments/assets/bb5b2248-f594-4f06-bc07-984899ec8154)
+
+![Image](https://github.com/user-attachments/assets/79a07ebb-fe27-4994-b331-b8367343c317)
